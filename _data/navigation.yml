@@ -1,0 +1,73 @@
+main:
+  - title: "<i class=\"fa-solid fa-house\"></i>"
+    url: /index.html
+  - title: "<i class=\"fa-solid fa-circle-exclamation\"></i> Notices"
+    url: /notices.html
+  - title: "Meetings"
+    url: /categories/#meeting
+
+background:
+  - title: "Background"
+    url: /background/index.html
+remedial:
+  - title: "Remedial Technologies"
+    url: /pages/5-remedial-technologies.html
+plume:
+  - title: "Plume Maps"
+    url: /pages/9-plume-maps.html
+admin:
+  - title: "Admin Record"
+    url: /admin-record.html
+
+sites:
+  - title: "Sites"
+    url: /project-sites.html
+    children:
+    - title: "LHAAP-001-R-01"
+      url: /LHAAP-001-R-01.html
+    - title: "LHAAP-003-R-01"
+      url: /LHAAP-003-R-01.html
+    - title: "LHAAP-03"
+      url: /LHAAP-03.html
+    - title: "LHAAP-04"
+      url: /LHAAP-04.html
+    - title: "LHAAP-12"
+      url: /LHAAP-12.html
+    - title: "LHAAP-16"
+      url: /LHAAP-16.html
+    - title: "LHAAP-17"
+      url: /LHAAP-17.html
+    - title: "LHAAP-18/24"
+      url: /LHAAP-18-24.html
+    - title: "LHAAP-29"
+      url: /LHAAP-29.html
+    - title: "LHAAP-35A (58)"
+      url: /LHAAP-35A-58.html
+    - title: "LHAAP-35B (37)"
+      url: /LHAAP-37.html
+    - title: "LHAAP-46"
+      url: /LHAAP-46.html
+    - title: "LHAAP-47"
+      url: /LHAAP-47.html
+    - title: "LHAAP-50"
+      url: /LHAAP-50.html
+    - title: "LHAAP-67"
+      url: /LHAAP-67.html
+
+get-involved:
+  - title: "Get Involved"
+    children:
+    - title: "Meeting Schedule"
+      url: /events
+    - title: "Meeting Minutes and Handouts"
+      url: /meeting-minutes.html
+    - title: "Restoration Advisory Board"
+      url: /RAB.html
+    - title: "CERCLA Investigation and Remediation Process"
+      url: /pages/38-cercla-investigation-and-remediation-process.html
+    - title: "LHAAP Fact Sheets"
+      url: /pages/39-lhaap-fact-sheets.html
+    - title: "Final Record of Decisions (RODs) Approved"
+      url: /pages/40-final-record-of-decisions-rods-approved.html
+    - title: "MMRP Information"
+      url: /pages/mmrp-information.html
