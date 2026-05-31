@@ -16,6 +16,11 @@ timezone:  	America/Chicago
 include:
   - _pages
 
+lunr:
+  search_within_pages: true
+  
+search_full_content: true 
+
 # Plugins (previously gems:)
 plugins:
   - jekyll-paginate

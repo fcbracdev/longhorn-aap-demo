@@ -1,14 +1,14 @@
 main:
-  - title: "<i class=\"fa-solid fa-house\"></i>"
+  - title: "<i class=\"fa-solid fa-house\"></i> Home"
     url: /index.html
   - title: "<i class=\"fa-solid fa-circle-exclamation\"></i> Notices"
     url: /notices.html
-  - title: "Meetings"
+  - title: "<i class=\"fa-solid fa-calendar-days\"></i> Meetings"
     url: /categories/#meeting
 
 background:
   - title: "Background"
-    url: /background/index.html
+    url: /background.html
 remedial:
   - title: "Remedial Technologies"
     url: /pages/5-remedial-technologies.html
