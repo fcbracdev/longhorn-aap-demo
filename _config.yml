@@ -6,7 +6,7 @@ search: true
 
 # Build settings
 markdown: kramdown
-remote_theme: fcbracdev/minimal-mistakes
+local_theme: minimal-mistakes
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
